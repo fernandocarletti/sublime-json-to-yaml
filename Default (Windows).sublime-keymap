@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["ctrl+alt+t"], "command": "json_to_yaml"
+    }
+]
